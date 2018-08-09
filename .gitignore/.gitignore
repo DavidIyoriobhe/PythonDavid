@@ -1,0 +1,7 @@
+#Ask for a,b,c
+a=int(input("Enter the a\n"))
+b=int(input("Enter the b\n"))
+c=int(input("Enter the c\n"))
+x=(-b+4*a*c)/2*a
+#print x
+print(x)
